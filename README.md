@@ -36,7 +36,7 @@ This project is an end-to-end data application that explores and visualizes flig
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the Streamlit app](http://192.168.29.215:8504)
+👉 [Click here to try the Streamlit app](http://localhost:8504)
 
 ## 🔒 Environment Variables
 
